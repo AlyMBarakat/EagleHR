@@ -1,0 +1,13 @@
+USER_ID		Name		Department	Position	Email	      				Address	Salary	Date of birth	Entry date
+AlyBarakat	12345678	
+16100337	Aly Barakat	Computer	FrontEDev	aly.m.barkat@gmail.com	Sporting	15000.0	2019-05-25	2019-05-02
+KhalidKhalil	1234
+16101054	Khalid Khalil	Computer	BackEDev	khalidMagdy@gmail.com	Sporting	2000.0	2019-05-23	2019-05-02
+AhmedGamal	1234
+16100338	Ahmed Gamal	Management	HumanRes	AhmedGamal@gmail.com	Sporting	1500.0	2019-05-08	2019-05-10
+AhmedYasser	1234
+16100339	Ahmed Hamza	CompEngineer	GamedDeveloper	AhmedYasser@gmail,com	Sporting	50000.0	2019-05-31	2019-05-09
+Hamaha97	1234
+16100310	Ahmed Nabil	CompEngineer	GameDeveloper	hamaha97@gmail.com	Sporting	2000.0	2019-05-23	2019-05-09
+OmarShalash	1234
+16100333	Omar Shalash	Comp	Dr	Omar@gmail.com	Smouha	50000.0	2019-05-23	2019-05-16
